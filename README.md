@@ -48,9 +48,10 @@ Insert Info Here
  <li>Jamie Garcia</li>
  <li>Francisco Ovalle</li>
  <li>Tyler Moson</li>
+ <li>Nick Lacross</li>
 </ul>
 #### Goals
-Insert Info Here
+Developing an interface for students and an interface for professors
 
 ### Engine
 #### Members
