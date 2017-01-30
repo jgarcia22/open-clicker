@@ -50,7 +50,7 @@ Insert Info Here
  <li>Tyler Moson</li>
 </ul>
 #### Goals
-Insert Info Here
+Developing an interface for students and an interface for professors.
 
 ### Engine
 #### Members
